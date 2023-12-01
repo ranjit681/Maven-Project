@@ -24,3 +24,9 @@ To run this project locally, make sure you have Maven installed on your system.
 ```bash
 git clone https://github.com/your-username/simple-maven-java-project.git
 cd simple-maven-java-project
+
+### Build the Project
+
+```bash
+git clone https://github.com/your-username/simple-maven-java-project.git
+cd simple-maven-java-project
