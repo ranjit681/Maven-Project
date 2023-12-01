@@ -28,5 +28,5 @@ cd simple-maven-java-project
 ### Build the Project
 
 ```bash
-git clone https://github.com/your-username/simple-maven-java-project.git
+mvn compile
 cd simple-maven-java-project
