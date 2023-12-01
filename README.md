@@ -36,4 +36,6 @@ To execute the application, use the exec Maven plugin (assuming the project has 
 
 ```bash
 mvn exec:java -Dexec.mainClass="com.example.MainClass"
+Replace "com.example.MainClass" with the appropriate fully qualified name of your main class.
+
 
