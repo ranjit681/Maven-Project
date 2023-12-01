@@ -24,18 +24,3 @@ To run this project locally, make sure you have Maven installed on your system.
 ```bash
 git clone https://github.com/your-username/simple-maven-java-project.git
 cd simple-maven-java-project
-
-### Build the Project
-
-```bash
-mvn compile
-
-### Run the Application
-
-To execute the application, use the exec Maven plugin (assuming the project has an executable entry point):
-
-```bash
-mvn exec:java -Dexec.mainClass="com.example.MainClass"
-Replace "com.example.MainClass" with the appropriate fully qualified name of your main class.
-
-
