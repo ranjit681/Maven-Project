@@ -29,4 +29,11 @@ cd simple-maven-java-project
 
 ```bash
 mvn compile
-cd simple-maven-java-project
+
+### Run the Application
+
+To execute the application, use the exec Maven plugin (assuming the project has an executable entry point):
+
+```bash
+mvn exec:java -Dexec.mainClass="com.example.MainClass"
+
